@@ -1,0 +1,38 @@
+.jumbotron{
+	background-color: #104F4E;
+	color: white;
+	margin-top: 50px;
+}
+
+/*.btn {
+	color: green;
+	background-color: black;*/
+
+.card-hotel{
+		  /*Cuanto queremos que crezca flex 1 mantiene 150 es el ancho definido */
+	flex: 1 250px;
+		  /*margen*/
+	/*padding: 2px 0px 2px 0px;*/
+	margin-top: 20px;
+}
+
+.btn-reserva {
+	/*Ocupa todo el ancho*/
+	width: 100%;
+	border-radius: 0px;
+}
+
+footer {
+	padding: 10px 10px 0 10px;
+	background-color: #21D1FC;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+body{
+	background-color: #AED8D6;
+}
+
+.adress-icon{
+	padding-right: 10px;
+}
