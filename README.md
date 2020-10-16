@@ -1,2 +1,2 @@
 # DesarrolloWebCurso
-Pagina de hoteles para mi curso 
+Curso de desarrollo web 
